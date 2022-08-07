@@ -1,8 +1,6 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-There is the land where I share toys and take a break.
-
-I'm learning building tools and AST recently.
+I'm a fullstack developer
 
 <details>
 <summary>⚡️ More about my coding life</summary>
