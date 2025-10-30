@@ -2,10 +2,6 @@
 
 I'm a front-end developer
 
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylonSopeletto&layout=compact&hide=css,html)
 
-</details>
+
