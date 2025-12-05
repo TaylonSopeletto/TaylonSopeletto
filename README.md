@@ -2,6 +2,5 @@
 
 I'm a front-end developer
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylonSopeletto&layout=compact&hide=css,html)
 
 
