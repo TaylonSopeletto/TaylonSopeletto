@@ -2,5 +2,8 @@
 
 I'm a front-end developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylonsopeletto)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/taylonsopeletto?theme=light">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/taylonsopeletto">
+</picture>
 
