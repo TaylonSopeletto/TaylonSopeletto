@@ -2,7 +2,7 @@
 
 I'm a front-end developer
 
-taylonsopeletto.vercel.app
+https://taylonsopeletto.vercel.app
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/taylonsopeletto?theme=light">
