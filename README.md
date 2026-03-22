@@ -2,6 +2,8 @@
 
 I'm a front-end developer
 
+taylonsopeletto.vercel.app
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/taylonsopeletto?theme=light">
   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/taylonsopeletto">
